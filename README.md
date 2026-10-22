@@ -33,10 +33,6 @@ Unityを使用して個人制作した3Dゲームです。
 - AudioSource
 - PlayerPrefs/JSONシリアライズ
 
-## プレイ動画・ゲーム本体
-
-GigaFile便のURLをここに記載します。
-
 ## 外部アセットについて
 
 本作品ではUnity Asset Storeの外部アセットを使用しています。
